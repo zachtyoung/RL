@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
-import "./App.css";
+import bg from "./9XXQ7JuDTN2xvNwRIacQAQ.webp";
 
 function App() {
-  return <div className="App">Retro League</div>;
+  return <div className="App"></div>;
 }
 
 export default App;
