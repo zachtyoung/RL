@@ -1,12 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('/src/oB3ugblRT5CJG3OuNygrVw.webp'); /* Replace with your image URL */
-  background-size: cover; /* Makes the image cover the entire screen */
+  background-image: url('/src/s5VZsbk0SDqDsVZB3_puMg.webp'); /* Replace with your image URL */
+  background-size: contain; /* Makes the image cover the entire screen */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
   background-attachment: fixed; /* Keeps the image fixed during scrolling */
   height: 100vh; /* Ensures the body takes the full height of the viewport */
+  background-color: rgb(23,31,61);
 }
 
 code {
